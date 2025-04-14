@@ -43,7 +43,7 @@ Exploratory analysis revealed:
 ---
 
 ## File Structure
-used-car-price-analysis/
+Berkeley-Machine-Learning-and-AI-Module-11-Exercise/
 │
 ├── README.md
 ├── used_car_price_analysis.ipynb
